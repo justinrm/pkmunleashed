@@ -1,2 +1,8 @@
 # pkmunleashed
-let's see how far boredom can go
+
+Let's see how far boredom will go.
+
+TODO
+
+[] Everything
+[] IRC commit propogation
